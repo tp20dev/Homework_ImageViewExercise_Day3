@@ -1,4 +1,5 @@
 Completed Tasks
 ----------------
-- Insert image in ImageView
-- After clicking image load url in WebView. 
+- Inserted image in ImageView, centerd image
+- Enabled Javascript in WebView
+- After clicking image, WebView loads url. 
